@@ -12,10 +12,6 @@
   <a href="https://exercism.org/profiles/Maartz/testimonials"><img src="https://img.shields.io/badge/Exercism_Mentor-009CAB?style=flat&logo=exercism&logoColor=white" alt="Exercism Mentor"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maartz&label=Profile%20views&color=A371F7&style=flat" alt="views"/>
-</p>
-
 ---
 
 > I lead engineering teams and write code in the open.
@@ -47,15 +43,6 @@
 </p>
 
 ### 📊 Engineering in numbers
-
-<p align="center">
-  <a href="https://github.com/Maartz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Maartz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Maartz stats"/>
-  </a>
-  <a href="https://github.com/Maartz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maartz&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Maartz">

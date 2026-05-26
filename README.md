@@ -25,6 +25,7 @@
 ### 🎯 Currently
 
 - 🏗️ Senior Software Engineer at **Constella** — Elixir on fintech / blockchain
+- 🎵 Building **[Aria](https://getaria.app)** — a music companion for Apple Music that listens to what you feel
 - 🧪 Independent consulting through **[Alembic Labs](https://alembiclabs.fr)** — BEAM platforms, CQRS, LiveView
 - 🧑‍🏫 Mentor on **[Exercism](https://exercism.org/profiles/Maartz/testimonials)** since 2022 — Elixir, Ruby, Swift · **50+ engineers mentored**
 - 🎯 Open to **Engineering Manager** roles — Remote EU / US
@@ -68,7 +69,23 @@
   </a>
 </p>
 
-### 🚀 Selected work
+### 🎵 Aria — a product I'm building
+
+<p>
+  <a href="https://getaria.app">
+    <img src="https://img.shields.io/badge/Aria-getaria.app-A371F7?style=for-the-badge&logo=apple-music&logoColor=white" alt="Aria"/>
+  </a>
+  <img src="https://img.shields.io/badge/status-waitlist_open-success?style=for-the-badge" alt="waitlist open"/>
+</p>
+
+> *Tell her how you feel. She finds the song.*
+
+A music companion for **Apple Music** that listens to what you say — and what you mean.
+Most apps know what you play; none know how you feel. Aria does.
+
+→ **[getaria.app](https://getaria.app)** · join the waitlist
+
+### 🚀 Selected open-source work
 
 - 🔬 **[Spectro](https://github.com/Maartz/Spectro)** — Swift library with a functional bent
 - 🔧 **[SwiftPipeline](https://github.com/Maartz/SwiftPipeline)** — Functional pipeline composition in Swift
